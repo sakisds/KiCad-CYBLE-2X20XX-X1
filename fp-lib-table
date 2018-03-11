@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cyble-2x20xx)(type KiCad)(uri "$(KIPRJMOD)/cyble-2x20xx.pretty")(options "")(descr ""))
+)
